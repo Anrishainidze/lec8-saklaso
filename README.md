@@ -1,1 +1,1 @@
-# lec8-saklaso
+# lec8-sd
