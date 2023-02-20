@@ -53,3 +53,7 @@
 .text-text{
     
 }
+.col-3{
+    color:white;
+    justify-content: space-between;
+}
